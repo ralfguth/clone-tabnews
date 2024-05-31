@@ -1,5 +1,5 @@
 # clone-tabnews
 
-Implementacao do tabnews.com.br 
+Implementacao do tabnews.com.br
 
 Estudo de Nextjs
