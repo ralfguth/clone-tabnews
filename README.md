@@ -1,5 +1,4 @@
-# clone-tabnews
+# Finanças pessoais
 
-Implementacao do tabnews.com.br
+Implementação como base no tabnews.com.br como estudo do framework NextJs.
 
-Estudo de Nextjs
